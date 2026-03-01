@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Bagaikan Langit",
+  "base_artist": "Potret",
+  "createdAt": "2026-03-01T15:44:19.503207Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bagaikan Langit",
+      "artist": "Putih Abu-Abu",
+      "has_synced": true,
+      "path": "select/01_Bagaikan_Langit_Putih_Abu-Abu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bagaikan Langit - Remix Version",
+      "artist": "Putih Abu-Abu",
+      "has_synced": true,
+      "path": "select/02_Bagaikan_Langit_-_Remix_Version_Putih_Abu-Abu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bagaikan Langit",
+      "artist": "Potret",
+      "has_synced": true,
+      "path": "select/03_Bagaikan_Langit_Potret.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bagaikan Langit",
+      "artist": "Eclat Story",
+      "has_synced": true,
+      "path": "select/04_Bagaikan_Langit_Eclat_Story.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bagaikan Langit (Album Version)",
+      "artist": "Steve Idol",
+      "has_synced": true,
+      "path": "select/05_Bagaikan_Langit_(Album_Version)_Steve_Idol.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DJ BAGAIKAN LANGIT DI SORE HARI Remix",
+      "artist": "DJ Violin",
+      "has_synced": true,
+      "path": "select/06_DJ_BAGAIKAN_LANGIT_DI_SORE_HARI_Remix_DJ_Violin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bagaikan Langit",
+      "artist": "Eclat Story",
+      "has_synced": true,
+      "path": "select/07_Bagaikan_Langit_Eclat_Story.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bagaikan Langit",
+      "artist": "Potret",
+      "has_synced": true,
+      "path": "select/08_Bagaikan_Langit_Potret.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bagaikan Langit",
+      "artist": "Potret",
+      "has_synced": true,
+      "path": "select/09_Bagaikan_Langit_Potret.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bagaikan Langit",
+      "artist": "Song, Putih Abu-Abu",
+      "has_synced": true,
+      "path": "select/10_Bagaikan_Langit_Song,_Putih_Abu-Abu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bagaikan Langit - Remix Version",
+      "artist": "Putih Abu-Abu/Ivan Dewanto",
+      "has_synced": true,
+      "path": "select/11_Bagaikan_Langit_-_Remix_Version_Putih_Abu-Abu_Ivan_Dewanto.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bagaikan Langit",
+      "artist": "Potret",
+      "has_synced": false,
+      "path": "select/pl_01_Bagaikan_Langit_Potret.txt"
+    }
+  ]
+}
