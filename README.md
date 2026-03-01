@@ -1,0 +1,67 @@
+# Potret – Bagaikan Langit
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.79] Bagaikan langit di sore hari
+[00:05.78] Berwarna biru, sebiru hatiku
+[00:08.99] Menanti kabar yang aku tunggu
+[00:12.35] Peluk dan cium hangatnya untukku
+[00:28.35] 
+[00:17.11] Bagaikan langit di sore hari
+[00:20.42] Berwarna biru sebiru hatiku
+[00:23.69] Menanti kabar yang aku tunggu
+[00:26.82] Peluk dan cium hangatnya untukku
+[00:42.82] 
+[00:32.62] Oh, asmara
+[00:35.20] Yang terindah mewarnai bumi
+[00:38.43] Yang kucinta menjanjikan aku
+[00:41.56] Terbang ke atas, ke langit ketujuh
+[00:45.01] Bersamamu
+[00:49.51] 
+[00:48.02] Bagaikan langit di sore hari
+[00:51.22] Berwarna biru, sebiru hatiku
+[00:54.45] Menanti kabar yang aku tunggu
+[00:57.73] Peluk dan cium hangatnya untukku
+[01:13.73] 
+[01:02.86] Bagaikan langit di sore hari
+[01:05.71] Berwarna biru, sebiru hatiku
+[01:09.30] Menanti kabar yang aku tunggu
+[01:12.26] Peluk dan cium hangatnya untukku
+[01:28.26] 
+[01:18.19] Oh, asmara
+[01:20.70] Yang terindah mewarnai bumi
+[01:23.85] Yang kucinta menjanjikan aku
+[01:26.95] Terbang ke atas, ke langit ketujuh
+[01:30.34] Bersamamu
+[01:34.84] 
+[01:32.55] Oh, dewi cinta
+[01:34.94] Sandarkan aku di bahumu
+[01:38.29] Agar kurasa rindunya hati
+[01:41.34] Teredakan sudah, hadirmu, sayang
+[01:44.52] Tenangkan diriku
+[01:52.52] 
+[02:15.68] Oh, asmara
+[02:18.62] Yang terindah mewarnai bumi
+[02:22.43] Yang kucinta menjanjikan aku
+[02:25.95] Terbang ke atas, ke langit ketujuh
+[02:29.67] Bersamamu
+[02:34.17] 
+[02:32.07] Oh, asmara
+[02:34.39] Yang terindah mewarnai bumi
+[02:37.68] Yang kucinta menjanjikan aku
+[02:40.83] Terbang ke atas, ke langit ketujuh
+[02:44.12] Bersamamu
+[02:48.62] 
+[02:46.48] Oh, dewi cinta
+[02:48.78] Sandarkan aku di bahumu
+[02:52.00] Agar kurasa rindunya hati
+[02:55.11] Teredakan sudah hadirmu, sayang
+[02:58.36] Tenangkan diriku
+[03:06.36] 
+[03:01.03] Oh, asmara
+[03:03.66] Yang terindah mewarnai bumi
+[03:06.52] Yang kucinta menjanjikan aku
+[03:09.95] Terbang ke atas, ke langit ketujuh
+[03:13.46] Bersamamu
+```
